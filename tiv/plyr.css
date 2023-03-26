@@ -1,4 +1,13 @@
-body {background-color: blanchedalmond;}
+body {background-color: beige;}
+
+.judul {font-size: 35px;color: blue;}
+
+.kl1 {color: blue; font-size: 30px;}
+
+.kl2 {width: 80%;height: auto;font-size: 25px;color: blue;}
+
+
+
 @keyframes plyr-progress{to{background-position:25px 0}}
 @keyframes plyr-popup{0%{opacity:.5;transform:translateY(10px)}
 to{opacity:1;transform:translateY(0)}}
