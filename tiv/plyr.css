@@ -6,6 +6,8 @@ body {background-color: beige;}
 
 .kl2 {width: 80%;height: auto;font-size: 25px;color: blue;}
 
+.gambar {border: 3px solid red;border-radius: 13px ; width: 17%;}
+
 
 
 @keyframes plyr-progress{to{background-position:25px 0}}
